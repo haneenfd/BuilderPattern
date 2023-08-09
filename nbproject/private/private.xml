@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Madani/Documents/NetBeansProjects/BuilderPattern/src/builderpattern/Builder.java</file>
+            <file>file:/C:/Users/Madani/Documents/NetBeansProjects/BuilderPattern/src/builderpattern/Director.java</file>
+            <file>file:/C:/Users/Madani/Documents/NetBeansProjects/BuilderPattern/src/builderpattern/Car.java</file>
+            <file>file:/C:/Users/Madani/Documents/NetBeansProjects/BuilderPattern/src/builderpattern/CarManualBuilder.java</file>
+            <file>file:/C:/Users/Madani/Documents/NetBeansProjects/BuilderPattern/src/builderpattern/CarBuilder.java</file>
+            <file>file:/C:/Users/Madani/Documents/NetBeansProjects/BuilderPattern/src/builderpattern/CarManual.java</file>
+            <file>file:/C:/Users/Madani/Documents/NetBeansProjects/BuilderPattern/src/builderpattern/BuilderPattern.java</file>
+        </group>
+    </open-files>
+</project-private>
